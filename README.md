@@ -4,7 +4,7 @@
 [LINUX BUILD INSTRUCTIONS]
 * Required Packages:
   * cmake
-  * libglew-dev
+  * libglm-dev
   * libglfw3-dev
 * Build:
   * mkdir build
